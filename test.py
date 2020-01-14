@@ -1,3 +1,3 @@
 import os
 
-os.system("shutdown now")
+os.system("sudo shutdown now")
