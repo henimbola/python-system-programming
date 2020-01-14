@@ -7,6 +7,6 @@ now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 print("Current Time = ", current_time)
 
-while 1:
-    if current_time = "11:50:00":
-        os.system("shutdown now")
+if current_time = "11:50:00":
+
+    os.system("shutdown now")
